@@ -18,9 +18,6 @@ Aplikasi Meal Prep Planner adalah aplikasi desktop berbasis PyQt5 yang dirancang
 #### Makanan Expired
 ![Makanan Expired](Assets/expired.png)
 
-#### Hasil Akhir Setelah Menambahkan Data
-![Menambahkan Data](Assets/after_create.png)
-
 ### Mencari Data
 ![Mencari Data](Assets/search.png)
 
