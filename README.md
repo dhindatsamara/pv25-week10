@@ -6,11 +6,11 @@ Aplikasi Meal Prep Planner adalah aplikasi desktop berbasis PyQt5 yang dirancang
 ### Tampilan Awal
 ![Tampilan Awal](Assets/start.png)
 
-### Menambahkan Data
-![Menambahkan Data](Assets/create.png)
-
 #### Peringatan Saat Menambahkan Data Ketika Dish Name Kosong
 ![Peringatan Nama Kosong](Assets/alert_create.png)
+
+### Menambahkan Data
+![Menambahkan Data](Assets/create.png)
 
 #### Peringatan Saat Prep Date Melebihi Hari Ini
 ![Peringatan Prep Date](Assets/alert_prep.png)
